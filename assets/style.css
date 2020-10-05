@@ -1,0 +1,88 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-weight: 700;
+    color:#707070;
+    font-size: 50px;
+}
+
+.card-text{
+    color:#373A3C;
+    }
+
+p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h5{
+    font-size: 17px;
+    font-weight: 700;
+
+}
+
+.list-group-item{
+    font-size:11px;
+    font-weight: 400;
+}
+
+.card-link{
+    color:#1C7CD5;
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.logo-top{
+ width: 132px;
+ height: 53px;
+}
+
+.fab{
+    color:white;
+}
+
+.row-pagos{
+    height: 170px;
+}
+
+
+.medp{
+    display: flex;
+    justify-content: space-evenly;   
+}
+
+.a{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+
+.fab{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.card-img-bottom{
+    width: 55px;
+    height: 100px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0px;
+    
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+.nav-link active{
+    font-size: 16px;
+    font-weight: 400;
+
+}
